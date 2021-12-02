@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b3ec588a-bedd-4e6a-bc31-d22a1f300dfd": {
+      "ProjectGuid": "b3ec588a-bedd-4e6a-bc31-d22a1f300dfd",
+      "DisplayName": "RoleBasedAuth",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
